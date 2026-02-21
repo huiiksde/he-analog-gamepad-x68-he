@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+
+# Debug/test files (not part of release)
+phase1_*.py
+phase2_*.py
+test_*.py
+map_*.py
+analog_reader.py
+sniff_simulation.py
+consolelog.txt
+hid_descriptors.json
+hid_caps_analysis.json
+phase2_captures.json
+phase2_analysis.txt
+analog_capture.json
+
+# IDE
+.vscode/
+.idea/
+
+# Claude
+.claude/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# User config (keep template, ignore user-specific)
+gamepad_config.json
