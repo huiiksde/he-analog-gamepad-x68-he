@@ -33,7 +33,7 @@ This project reverse engineers the vendor-specific HID protocol of the **Attack 
 
 - **OS:** Windows 10 or later (uses native Windows HID API via ctypes)
 - **Python:** 3.10 or later
-- **Hardware:** Attack Shark X68PRO HE keyboard (Hall Effect variant)
+- **Hardware:** Attack Shark X68 HE keyboard (Hall Effect variant)
 - **ViGEmBus driver:** Required for virtual Xbox 360 controller emulation
   - Download from [ViGEmBus releases](https://github.com/nefarius/ViGEmBus/releases)
 
